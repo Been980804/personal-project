@@ -22,7 +22,8 @@
 | 6 | **Spring App K8S에 로드밸런싱 배포**| SpringApp K8S에 배포 후 LoadBalancer 확인하기 | Linux, SpringBoot, Docker, Jenkins, K8S, Jupyter | 🙋‍♂️ <br> (1명) | [GitHub 링크](https://github.com/Been980804/wooriFISA_study/tree/main/wooriFisa_mission_241002) | 2024-10-02|
 | 7 | **Terraform 활용 AWS S3구축** | Terraform을 활용해 AWS bucket 만들기 | Terraform, AWS | 🙋‍♂️ <br> (1명) | [GitHub 링크](https://github.com/Been980804/wooriFISA_study/tree/main/wooriFisa_mission_241016)| 2024-10-16 |
 | 8 | **CI/CD 최적화** | CI/CD 시간 최적화하기 | Linux, Docker, Minikube, Prometheus, Grafana, SpringBoot | 🙋‍♂️ <br> (1명) | [Notion 링크](https://flower-polyanthus-3b1.notion.site/2-11ed2f2f843480d18445c7abb2cbd5c7?pvs=4)| 2024-10-21 |
-| 9 | **MSA AI Chat 서비스** | 하이브리드 클라우드 환경에서 MSA 방식으로 개발한 AI Chat 서비스 | SpringBoot, Python, React, K8S, Jenkins, ArgoCD, Istio, Ansible,AWS | 👩‍👩‍👧‍👦 <br> (5명) | [GitHub 링크](https://github.com/Mi-Ss-A)| 20224-12-11 |
+| 9 | **MSA AI Chat 서비스** | 하이브리드 클라우드 환경에서 MSA 방식으로 개발한 AI Chat 서비스 | SpringBoot, Python, React, K8S, Jenkins, ArgoCD, Istio, Ansible, AWS | 👩‍👩‍👧‍👦 <br> (5명) | [GitHub 링크](https://github.com/Mi-Ss-A)| 2024-12-11 |
+| 10 | **융합 해커톤 (기획)** | 40~60대 중장년층을 위한 여행 추천 서비스 | Figma, Draw.io | 👩‍👩‍👧‍👦 <br> (4명) | [GitHub 링크](https://github.com/Been980804/WooriFiSA_Hackerton)| 2024-12-13 |
 
 
 <br>
