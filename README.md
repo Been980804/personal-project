@@ -1,6 +1,6 @@
 # ˘ᗜ˘ My-Personal-Projects-Portfolio
 
-*최종 업데이트: 2025년 1월 13일*
+*최종 업데이트: 2025년 7월 15일*
 
 <br>
 
@@ -31,10 +31,10 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | 도서 대출/예약 서비스 | 사용자와 관리자가 도서를 대여 / 반납할 수 있고, 관리자는 도서를 등록 / 수정 / 삭제할 수 있다. | JAVA | 👬 <br> (2명) | [GitHub 링크](https://github.com/Been980804/Gukbi-back-end) | 2024-03-31 |
-| 2  | 영화 상영시간표 비교 서비스 | 사용자가 CGV, 롯데시네마, 메가박스 시간표를 비교하여 예약 사이트로 이동할 수 있다. | JAVA, Python | 👬 <br> (2명) | [GitHub 링크](https://github.com/Been980804/Graduate-back-end) | 2024-06-05 |
+| 1  | 도서 대출/예약 서비스 | 사용자와 관리자가 도서를 대여 / 반납할 수 있고, 관리자는 도서를 등록 / 수정 / 삭제할 수 있다. | JAVA, SpringBoot | 👬 <br> (2명) | [GitHub 링크](https://github.com/Been980804/Gukbi-back-end) | 2024-03-31 |
+| 2  | 영화 상영시간표 비교 서비스 | 사용자가 CGV, 롯데시네마, 메가박스 시간표를 비교하여 예약 사이트로 이동할 수 있다. | JAVA, Python, SpringBoot, Selenium | 👬 <br> (2명) | [GitHub 링크](https://github.com/Been980804/Graduate-back-end) | 2024-06-05 |
 | 3  | 도서관 관리 시스템 | 사용자와 관리자가 도서를 대여 / 반납할 수 있고, 관리자는 도서를 등록 / 수정 / 삭제할 수 있다. | JAVA | 👩‍👩‍👧‍👦 <br> (4명) | [GitHub 링크](https://github.com/Been980804/wooriFISA_study/tree/main/wooriFisa-miniProject-240712) | 2024-07-12 |
-| 4  | 건강식품 이커머스 구독 서비스 | 사용자가 건강식품을 구독할 수 있고, 사업자는 상품 등록할 수 있고, 관리자는 상품을 삭제및 관리 할 수 있다. | JAVA | 👩‍👩‍👧‍👦 <br> (4명) | [GitHub 링크](https://github.com/FISub/backend) | 2024-09-22 |
+| 4  | 건강식품 이커머스 구독 서비스 | 사용자가 건강식품을 구독할 수 있고, 사업자는 상품 등록할 수 있고, 관리자는 상품을 삭제및 관리 할 수 있다. | JAVA, SpringBoot | 👩‍👩‍👧‍👦 <br> (4명) | [GitHub 링크](https://github.com/FISub/backend) | 2024-09-22 |
 --- 
 
 <br>
